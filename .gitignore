@@ -1,0 +1,17 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Temp files
+temp_*.pdf
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
