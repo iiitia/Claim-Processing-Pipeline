@@ -1,4 +1,4 @@
-# 🏥 Medical Claim Processing Pipeline
+# 🏥 Claim Processing Pipeline
 
 An AI-powered FastAPI application that automatically extracts structured data from medical claim PDFs using OCR, document classification, and LLM-based extraction.
 
